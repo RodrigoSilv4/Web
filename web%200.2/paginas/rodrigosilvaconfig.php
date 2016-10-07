@@ -9,7 +9,7 @@
 // ************************************************************** //
 // *                                                            * //
 // * Powered by RodrigoSilva                                    * //
-// * E-Mail: rodrigosilvads@gmail.com                           * //
+// * E-Mail: muxtrike@gmail.com                                 * //
 // * Skype: destroyerr.pkd                                      * //
 // * Phone: (22) 981571943                                      * //
 // *                                                            * //
